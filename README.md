@@ -1,6 +1,8 @@
 # hello-world
-Links to all my other projects- \n
-Computer Science and Quantiative Science at Emory University
+Computer Science and Quantiative Science at Emory University-
+
+Links to all my other projects-
+
 
 
 **WRITING PROJECTS** 
