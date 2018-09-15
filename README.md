@@ -7,8 +7,11 @@ Links to all my other projects-
 
 **WRITING PROJECTS** 
 
-Emory name article-
+Emory Name Controversy Op-Ed
 https://goo.gl/9SV58r
+
+Electronic Voting Machines Op-Ed
+https://goo.gl/RfhWFh
 
 
 
