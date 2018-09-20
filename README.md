@@ -7,11 +7,13 @@ Links to all my other projects-
 
 **WRITING PROJECTS** 
 
+Electronic Voting Machines Op-Ed
+http://emorywheel.com/wheel-debates-electronic-voting/
+
 Emory Name Controversy Op-Ed
 https://goo.gl/9SV58r
 
-Electronic Voting Machines Op-Ed
-http://emorywheel.com/wheel-debates-electronic-voting/
+
 
 
 **CODING PROJECTS** 
