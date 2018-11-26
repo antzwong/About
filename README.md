@@ -6,6 +6,7 @@ Links to all my other projects-
 
 
 **Published Articles** 
+
 Impeachment Op-Ed
 https://emorywheel.com/is-impeaching-donald-trump-worth-the-risk/
 
