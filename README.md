@@ -5,7 +5,9 @@ Links to all my other projects-
 
 
 
-**WRITING PROJECTS** 
+**Published Articles** 
+Impeachment Op-Ed
+https://emorywheel.com/is-impeaching-donald-trump-worth-the-risk/
 
 Electronic Voting Machines Op-Ed
 http://emorywheel.com/wheel-debates-electronic-voting/
