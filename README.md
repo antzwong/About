@@ -7,6 +7,9 @@ Links to all my other projects-
 
 **Published Articles** 
 
+Affirmative Action Op-Ed
+https://emorywheel.com/asians-support-affirmative-action/
+
 Impeachment Op-Ed
 https://emorywheel.com/is-impeaching-donald-trump-worth-the-risk/
 
