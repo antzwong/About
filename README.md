@@ -7,13 +7,13 @@ Links to all my other projects-
 
 ## Published Articles
 
-[Affirmative Action Op-Ed] (https://emorywheel.com/asians-support-affirmative-action/)
+[Affirmative Action Op-Ed](https://emorywheel.com/asians-support-affirmative-action/)
 
-[Impeachment Op-Ed] (https://emorywheel.com/is-impeaching-donald-trump-worth-the-risk/)
+[Impeachment Op-Ed](https://emorywheel.com/is-impeaching-donald-trump-worth-the-risk/)
 
-[Electronic Voting Machines Op-Ed] http://emorywheel.com/wheel-debates-electronic-voting/
+[Electronic Voting Machines Op-Ed](http://emorywheel.com/wheel-debates-electronic-voting/)
 
-[Emory Name Controversy Op-Ed] (https://goo.gl/9SV58r)
+[Emory Name Controversy Op-Ed](https://goo.gl/9SV58r)
 
 
  
