@@ -1,7 +1,7 @@
-# hello-world
-Computer Science and Quantiative Science at Emory University-
+# Welcome!
+My name is Anthony Wong. I'm currently studying computer science and quantitative science at Emory University, class of 2021. Outside of classes I work in residential life on campus, am a tour guide, writer for the school newspaper, and a corgi enthusiast! To me computer science is a unique subject because it's applicable to any field which is why I write code that's most applicalbe to the things which matter most to me. 
 
-Links to all my other projects-
+This site is meant to show the various projects I've been working on. Just click on a link to check them out!
 
 
 
