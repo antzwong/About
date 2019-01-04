@@ -5,7 +5,7 @@ Links to all my other projects-
 
 
 
-##Published Articles
+## Published Articles
 
 Affirmative Action Op-Ed
 https://emorywheel.com/asians-support-affirmative-action/
