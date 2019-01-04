@@ -22,13 +22,10 @@ This site is meant to show the various projects I've been working on. Just click
 
 ## CODING PROJECTS
 
-GPA calculator- 
-https://github.com/stagedSea/GPA-Calculator/blob/master/Main.java
+[GPA calculator](https://github.com/antzwong/GPA-Calculator)
 
-Rock, Paper, Scissors-
-https://github.com/stagedSea/rock-paper-scissors/blob/master/Main.java
+[Rock, Paper, Scissors](https://github.com/antzwong/rock-paper-scissors)
 
-Percolation Model-
-https://github.com/antzwong/percolation
+[Percolation Model](https://github.com/antzwong/percolation)
 
 
