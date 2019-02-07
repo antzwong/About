@@ -4,6 +4,9 @@ My name is Anthony Wong. I'm currently studying computer science and quantitativ
 This site is meant to show the various projects I've been working on. Just click on a link to check them out!
 
 
+## Sites I also manage
+[Emory Journal of Asian Studies - https://ejasonline.org/] (https://ejasonline.org/)
+
 
 ## Published Articles
 
