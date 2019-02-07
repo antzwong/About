@@ -5,7 +5,7 @@ This site is meant to show the various projects I've been working on. Just click
 
 
 ## Sites I also manage
-[Emory Journal of Asian Studies - https://ejasonline.org/](https://ejasonline.org/)
+[Emory Journal of Asian Studies](https://ejasonline.org/)
 
 
 ## Published Articles
