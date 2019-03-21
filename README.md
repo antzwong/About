@@ -24,6 +24,8 @@ This site is meant to show the various projects I've been working on. Just click
 
 
 ## CODING PROJECTS
+[Daily Scheduler](https://github.com/antzwong/Scheduler)
+
 [Emory Village Data Project](https://github.com/antzwong/QTM150)
 
 [GPA calculator](https://github.com/antzwong/GPA-Calculator)
